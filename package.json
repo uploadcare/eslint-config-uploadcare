@@ -4,12 +4,20 @@
   "description": "Uploadcare's base JS ESLint config",
   "main": "index.js",
   "scripts": {
-    "lint": "echo \"Error: no test specified\" && exit 1"
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/uploadcare/eslint-config-uploadcare.git"
   },
+  "keywords": [
+	"eslint",
+	"eslintconfig",
+	"config",
+	"uploadcare",
+	"javascript",
+	"styleguide"
+  ],
   "author": "Zarema Khalilova",
   "license": "MIT",
   "bugs": {
