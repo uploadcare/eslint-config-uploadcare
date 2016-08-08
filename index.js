@@ -1,6 +1,6 @@
 module.exports = {
-	'extends': [
+	extends: [
 		'./lib/rules/best-practices.js',
-		'./lib/rules/stylistic.js'
-	].map(require.resolve)
-};
+		'./lib/rules/stylistic.js',
+	].map(require.resolve),
+}
