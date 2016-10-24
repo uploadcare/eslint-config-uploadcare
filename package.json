@@ -4,7 +4,8 @@
   "description": "Uploadcare's base JS ESLint config",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "fix": "npm run lint -- --fix"
   },
   "repository": {
     "type": "git",
