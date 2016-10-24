@@ -1,7 +1,7 @@
 module.exports = {
-	env: {
-		browser: true,
-		node: true,
-	},
-	extends: './index.js',
+  env: {
+    browser: true,
+    node: true,
+  },
+  extends: './index.js',
 }
