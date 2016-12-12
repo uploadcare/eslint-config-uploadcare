@@ -20,5 +20,3 @@ Add `eslint-config-uploadcare` to your `.eslintrc`
 
 * [@Zmoki](https://github.com/Zmoki)
 * [@Akurganow](https://github.com/Akurganow)
-
-Current maintainer — [@Zmoki](https://github.com/Zmoki).
