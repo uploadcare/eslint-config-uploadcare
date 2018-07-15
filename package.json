@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
-    "fix": "npm run lint -- --fix"
+    "fix": "npm run lint -- --fix",
+    "release": "release-it"
   },
   "repository": {
     "type": "git",
@@ -24,5 +25,10 @@
   "bugs": {
     "url": "https://github.com/uploadcare/eslint-config-uploadcare/issues"
   },
-  "homepage": "https://github.com/uploadcare/eslint-config-uploadcare#readme"
+  "homepage": "https://github.com/uploadcare/eslint-config-uploadcare#readme",
+  "devDependencies": {
+    "@uploadcare/release-it": "^1.0.1",
+    "eslint": "^5.1.0",
+    "eslint-plugin-react": "^7.10.0"
+  }
 }

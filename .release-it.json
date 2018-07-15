@@ -1,0 +1,9 @@
+{
+  "buildCommand": "",
+  "githubRelease": true,
+  "createArchives": false,
+  "npmPublish": true,
+  "deployRelease": false,
+  "deployDemo": false,
+  "dryRun": false
+}
