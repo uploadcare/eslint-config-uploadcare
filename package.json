@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-uploadcare",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Uploadcare's base JS ESLint config",
   "main": "index.js",
   "scripts": {
