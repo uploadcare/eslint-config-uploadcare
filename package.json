@@ -26,9 +26,14 @@
     "url": "https://github.com/uploadcare/eslint-config-uploadcare/issues"
   },
   "homepage": "https://github.com/uploadcare/eslint-config-uploadcare#readme",
-  "devDependencies": {
-    "@uploadcare/release-it": "^1.0.1",
-    "eslint": "^5.1.0",
+  "dependencies": {
+    "eslint": "^5.5.0",
     "eslint-plugin-react": "^7.10.0"
+  },
+  "peerDependencies": {
+    "eslint": "^5.1.0"
+  },
+  "devDependencies": {
+    "@uploadcare/release-it": "^1.0.1"
   }
 }
